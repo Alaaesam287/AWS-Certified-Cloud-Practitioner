@@ -20,7 +20,7 @@ A personal repository containing my AWS Cloud Practitioner study notes, importan
 - [CloudCertPrep – CLF-C02 Practice Questions](https://www.cloudcertprep.io/aws/clf-c02)
 - [examtopics - CLF-C02 Practice Questions](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner-clf-c02/)
 
-*Note: CloudCertPrep is an independent practice resource, not an official AWS platform.*
+*Note: CloudCertPrep and examtopics are independent practice resources, not official AWS platforms.*
 
 
 ## Purpose
